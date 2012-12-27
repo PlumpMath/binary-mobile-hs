@@ -1,0 +1,1 @@
+[Mobile (Simple 3 4) (Simple 2 6),Mobile (Simple 2 5) (Complex 1 (Mobile (Simple 3 4) (Simple 2 6))),Mobile (Complex 2 (Mobile (Simple 2 5) (Complex 1 (Mobile (Simple 3 4) (Simple 2 6))))) (Simple 5 6)]
